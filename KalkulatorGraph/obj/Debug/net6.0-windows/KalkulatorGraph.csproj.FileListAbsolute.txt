@@ -1,0 +1,17 @@
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\bin\Debug\net6.0-windows\KalkulatorGraph.exe
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\bin\Debug\net6.0-windows\KalkulatorGraph.deps.json
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\bin\Debug\net6.0-windows\KalkulatorGraph.runtimeconfig.json
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\bin\Debug\net6.0-windows\KalkulatorGraph.dll
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\bin\Debug\net6.0-windows\KalkulatorGraph.pdb
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.csproj.AssemblyReference.cache
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.Form1.resources
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.csproj.GenerateResource.cache
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.AssemblyInfoInputs.cache
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.AssemblyInfo.cs
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.csproj.CoreCompileInputs.cache
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.dll
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\refint\KalkulatorGraph.dll
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.pdb
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\KalkulatorGraph.genruntimeconfig.cache
+D:\Projekty\tester na programistę\c#\kalkulator\KalkulatorGraph\obj\Debug\net6.0-windows\ref\KalkulatorGraph.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorGraph", "KalkulatorGraph.csproj", "{3EDB901A-835C-41A1-8AC1-3EB80D39A43D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDB901A-835C-41A1-8AC1-3EB80D39A43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDB901A-835C-41A1-8AC1-3EB80D39A43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDB901A-835C-41A1-8AC1-3EB80D39A43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDB901A-835C-41A1-8AC1-3EB80D39A43D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36601B6C-628B-440F-B129-CCCE0B4A5EBA}
+	EndGlobalSection
+EndGlobal

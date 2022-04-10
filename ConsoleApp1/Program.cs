@@ -10,7 +10,25 @@ namespace Kalkulator
     {
         static void Main(string[] args)
         { 
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Type first number: ");
+            string x = Console.ReadLine();
+            Console.WriteLine("Type second number: ");
+            string y = Console.ReadLine();
+            double xd = double.Parse(x);
+            double yd = double.Parse(y);
+            Console.Write("x + y = ");
+            Console.WriteLine(xd + yd);
+            Console.Write("x - y = ");
+            Console.WriteLine(xd - yd);
+            Console.Write("x * y = ");
+            Console.WriteLine(xd * yd);
+            Console.Write("x / y = ");
+            Console.WriteLine(xd / yd);
+            Console.Write("x % y = ");
+            Console.WriteLine(xd % yd);
+            Console.Write("y % x = ");
+            Console.WriteLine(yd % xd);
+
             Console.ReadLine();
         }
     }
