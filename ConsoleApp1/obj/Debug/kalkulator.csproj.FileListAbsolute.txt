@@ -1,0 +1,8 @@
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\obj\Debug\kalkulator.csproj.SuggestedBindingRedirects.cache
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Projekty\tester na programistę\c#\kalkulator\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
